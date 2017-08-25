@@ -59,7 +59,7 @@ chances of your issue being dealt with quickly:
 * **Browsers and Operating System** - is this a problem with all browsers or only IE9?
 * **Reproduce the Error** - provide a live example (using JSBin) or a unambiguous set of steps.
 * **Related Issues** - has a similar issue been reported before?
-* **Suggest a Fix** - if you can'qt fix the bug yourself, perhaps you can point to what might be
+* **Suggest a Fix** - if you can't fix the bug yourself, perhaps you can point to what might be
   causing the problem (line of code or commit)
 
 **If you get help, help others. Good karma rulez!**
